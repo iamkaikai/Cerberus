@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{75DB4A23-0EA9-AEFA-95F8-F15417FD9CF2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/visionOSTemplate-1.1.6/Assets/Samples/XR Interaction Toolkit/2.5.1/Starter Assets/Scripts/ActionBasedControllerManager.cs">
+    <Files>
+      <File FileName="Assets/visionOSTemplate-1.1.6/Assets/Samples/XR Interaction Toolkit/2.5.1/Starter Assets/Scripts/ActionBasedControllerManager.cs" Line="137" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VisionPro-test" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fc2bc8e7-2af2-4b1c-ac71-e796896cc811" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
